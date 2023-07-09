@@ -1,5 +1,6 @@
 # NetAplicationV1.0 
 Leer el archivo 'README.TXT'
+
 This is a new personal proyecto, that already have some functions about network and test network in windows, it is some basick program but it's the beginning a part of my college proyect.
 - En esta version se intento implementar algunas funciones basicas para redes.               #
 - Algo que destacar es que algunas funciones tienen parte de codigo donde se ejecuta         #
