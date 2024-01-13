@@ -54,5 +54,5 @@
     - Se esperan nuevas versiones de mejoras por hobby.
     #===========================================================================================#
 
-# LINK DESCARGAR:
+# Link Descarga:
     https://soysena-my.sharepoint.com/:u:/g/personal/ermenson_granda0_soy_sena_edu_co/EctW_SiyMfNNl9pVvmLZmxMBr0auR2rZk7kwf1J28V4-QA?e=0Gs4TM
