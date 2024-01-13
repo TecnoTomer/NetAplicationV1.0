@@ -15,7 +15,7 @@ This is a new personal proyecto, that already have some functions about network 
 =======▀▀▀==█████▌=████▀======                                                                                                                                          
 =============▀▀███=▀▀▀========                                                                                                                                          
 ==============================                                                                                                                                           
-==============================================================================================
+============================================================================================
 - En esta version se intento implementar algunas funciones basicas para redes.               #
 - Algo que destacar es que algunas funciones tienen parte de codigo donde se ejecuta         #
   comandos propios de widnows.                                                               #
@@ -29,4 +29,4 @@ This is a new personal proyecto, that already have some functions about network 
   un test basico sobre como demostrar el como funcionan los programas que traen codigo       #
   malicioso en su backend.                                                                   #
 - Se esperan nuevas versiones de mejoras por hobby.                                          #
-==============================================================================================
+=========================================================================================
